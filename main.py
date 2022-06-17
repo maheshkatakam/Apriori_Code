@@ -97,7 +97,7 @@ if __name__ == "__main__":
     st.markdown(new_title, unsafe_allow_html=True)
     html_temp = """
     <div style="background-color:tomato;padding:10px">
-    <h2 style="color:white;text-align:center;">Apriori Web App </h2>
+    <h2 style="color:white;text-align:center;">Apriori Web App (Mahesh) </h2>
     </div>
     """
     st.markdown(html_temp,unsafe_allow_html=True)
